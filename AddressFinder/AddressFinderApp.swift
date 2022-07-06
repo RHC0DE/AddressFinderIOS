@@ -2,7 +2,7 @@
 //  AddressFinderApp.swift
 //  AddressFinder
 //
-//  Created by Guest User on 05/07/2022.
+//  Created by RHC0DE on 05/07/2022.
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct AddressFinderApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashScreenView()
         }
     }
 }

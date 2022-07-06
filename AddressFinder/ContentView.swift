@@ -2,15 +2,17 @@
 //  ContentView.swift
 //  AddressFinder
 //
-//  Created by Guest User on 05/07/2022.
+//  Created by RHC0DE on 05/07/2022.
 //
 
 import SwiftUI
+import MapKit
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        
+        MapView()
+
     }
 }
 
